@@ -1,0 +1,17 @@
+package com.ev.collections;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+public class EmployeeCollection {
+    public static void main(String[] args) {
+        try{
+            System.out.println(10/0);
+        }catch (RuntimeException re){
+            re.printStackTrace();
+        }finally {
+            System.out.println("I get ran any how");
+        }
+        System.out.println("hey hello how u doing");
+    }
+}

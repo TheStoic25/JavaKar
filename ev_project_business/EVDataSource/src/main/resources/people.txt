@@ -1,0 +1,10 @@
+Leo, dicaprio, 1/1/1990, Programmer, {hourlyPay = 100, totalHours = 110}
+Leo, dicaprioJr, 1/1/1990, Programmer, {hourlyPay = 100, totalHours = 110}
+Brad, Harley, 1/1/1990, Programmer, {hourlyPay = 100, totalHours = 110}
+Steve, Crawley, 2/2/1991, Programmer, {hourlyPay = 100, totalHours = 110}
+Ayan, Benerjee, 4/4/1989, BusinessAnalyst, {clientCall = 15, totalCall = 20}
+Ayan, Mukerjee, 4/4/1989, BusinessAnalyst, {clientCall = 1, totalCall = 20}
+Ayan, Jr1, 4/4/1989, BusinessAnalyst, {clientCall = 2, totalCall = 20}
+Shreya, Jr2, 2/2/1988, BusinessAnalyst, {clientCall = 11, totalCall = 20}
+Naren, Bist, 3/3/1979, BusinessAnalyst, {clientCall = 25, totalCall = 20}
+Tim, Buchalka, 1/1/1885, CEO, {totalHours = 190}
